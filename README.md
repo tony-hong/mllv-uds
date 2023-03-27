@@ -4,6 +4,16 @@ Welcome to the multi-modal learning discussion! This discussion will focus on pa
 
 Lecturer:  Xudong (Tony) Hong, Ruitao Feng
 
+## Brief Introduction
+
+We are pleased to invite you to participate in our upcoming discussion seminar on multi-modal learning, with a focus on language and vision. In this seminar, we will be discussing several recent papers related to this topic, with the aim of fostering a deeper understanding of the challenges and opportunities presented by multi-modal learning.
+
+Multi-modal learning is a rapidly growing field that seeks to develop algorithms and models that can process and integrate information from multiple sources, such as text, images, and speech. In recent years, there has been a surge of interest in multi-modal learning, driven by the increasing availability of large-scale datasets and powerful computational resources.
+
+One of the most exciting areas of research within multi-modal learning is the integration of language and vision. By combining natural language processing and computer vision techniques, researchers have developed models that can perform a wide range of tasks, such as image captioning, visual question answering, and visual storytelling.
+
+During the seminar, we will be discussing several recent papers that explore different aspects of multi-modal learning with a focus on language and vision. We hope that this seminar will provide a forum for lively and insightful discussions, and that it will contribute to the development of new ideas and approaches for solving some of the most pressing challenges in this field.
+
 
 ## Papers
 
