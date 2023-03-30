@@ -1,10 +1,12 @@
-# Multi-Modal Learning Seminar
+# Seminar: Machine Learning for Language and Vision
 
-Welcome to the multi-modal learning discussion! This discussion will focus on papers related to multi-modal learning, specifically on language and vision.
+In this seminar, we will be discussing several recent papers on machine learning for natural language processing and computer vision applications. This seminar is perfect for students who are interested in working with artificial intelligence systems that deal with text and image data. 
 
 Lecturer:  Xudong (Tony) Hong, Ruitao Feng
 
-## Brief Introduction
+## (The following is under construction. Please stay tuned.)
+
+## Introduction
 
 We are pleased to invite you to participate in our upcoming discussion seminar on multi-modal learning, with a focus on language and vision. In this seminar, we will be discussing several recent papers related to this topic, with the aim of fostering a deeper understanding of the challenges and opportunities presented by multi-modal learning.
 
