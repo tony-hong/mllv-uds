@@ -64,13 +64,13 @@ If you know about an interesting paper, you can also propose it in the registrat
 
 ## Contact
 
-If you have any questions or concerns, please contact us via emails. We look forward to seeing you at the discussion!
+If you have any questions or concerns, please contact us via email. We look forward to seeing you at the discussion!
 
 **Xudong Hong**: xhong@coli.uni-saarland.de
 
 **Ruitao Feng**: fruitao@coli.uni-saarland.de
 
-## (The followling is under construction. Please stay tuned. )
+## (The following is under construction. Please stay tuned. )
 
 ## Discussion Format
 
