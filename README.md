@@ -81,3 +81,4 @@ We will have a group discussion on each paper, where participants can share thei
 The date and time for the discussion will be determined soon. Please stay tuned for updates.
 
 ## Requirement
+Students should have a basic understanding of natural language processing and computer vision concepts. Additionally, they should be familiar with deep learning models and have some experience in programming with Python. Students are expected to actively engage in discussions and critically analyze the papers presented during the seminar. They are also encouraged to share their own insights and perspectives on the topics covered.
