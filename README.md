@@ -18,7 +18,7 @@ We will discuss the following topics:
 
 ### Pre-training - Image
 
-- Li, J., Li, D., Xiong, C. and Hoi, S., 2022, June. [Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation](https://arxiv.org/abs/2201.12086). In *International Conference on Machine Learning* (pp. 12888-12900). PMLR.
+- Li, J., Li, D., Xiong, C. and Hoi, S., 2022, June. [Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation](https://proceedings.mlr.press/v162/li22n.html). In *International Conference on Machine Learning* (pp. 12888-12900). PMLR.
 - Radford, A., Kim, J.W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J. and Krueger, G., 2021, July. [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a). In International conference on machine learning (pp. 8748-8763). PMLR.
 
 ### Pre-training - Video
@@ -62,6 +62,20 @@ chatgpt: Talking, drawing and editing with visual foundation models](https://arx
 
 If you know about an interesting paper, you can also propose it in the registration email. 
 
+## Requirement
+
+Students should have a basic understanding of deep learning, natural language processing and computer vision concepts. Students are expected to actively engage in discussions and critically analyze the papers presented during the seminar. They are also encouraged to share their own insights and perspectives on the topics covered.
+
+## Discussion Format
+
+We will have a group discussion on each paper, where participants need to first present the papers. Then others can share their thoughts and insights on the research. 
+
+## Date and Time
+
+every Tue 12:15-13:45
+
+kick-off meeting on Apr 18, 2023
+
 ## Contact
 
 If you have any questions or concerns, please contact us via email. We look forward to seeing you at the discussion!
@@ -71,14 +85,3 @@ If you have any questions or concerns, please contact us via email. We look forw
 **Ruitao Feng**: fruitao@coli.uni-saarland.de
 
 ## (The following is under construction. Please stay tuned. )
-
-## Discussion Format
-
-We will have a group discussion on each paper, where participants can share their thoughts and insights on the research. The discussion will be led by a moderator who will facilitate the conversation and keep the discussion on topic.
-
-## Date and Time
-
-The date and time for the discussion will be determined soon. Please stay tuned for updates.
-
-## Requirement
-Students should have a basic understanding of natural language processing and computer vision concepts. Additionally, they should be familiar with deep learning models and have some experience in programming with Python. Students are expected to actively engage in discussions and critically analyze the papers presented during the seminar. They are also encouraged to share their own insights and perspectives on the topics covered.
