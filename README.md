@@ -75,6 +75,7 @@ We will have a group discussion on each paper, where participants need to first 
 every Tue 12:15-13:45
 
 kick-off meeting on Apr 18, 2023
+Location: Gebäude C7 3 - Seminarraum 1.12
 
 ## Contact
 
