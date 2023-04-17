@@ -2,7 +2,7 @@
 
 ## News
 
-If you are interested, please send [Xudong Hong](mailto:xhong@coli.uni-saarland.de) an email to register for this seminar. 
+If you are interested, please send [Xudong Hong](mailto:xhong@coli.uni-saarland.de) an email to register for this seminar.
 
 ## Introduction
 
@@ -18,8 +18,11 @@ We will discuss the following topics:
 
 ### Pre-training - Image
 
-- Li, J., Li, D., Xiong, C. and Hoi, S., 2022, June. [Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation](https://proceedings.mlr.press/v162/li22n.html). In *International Conference on Machine Learning* (pp. 12888-12900). PMLR.
 - Radford, A., Kim, J.W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J. and Krueger, G., 2021, July. [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a). In International conference on machine learning (pp. 8748-8763). PMLR.
+- Li, J., Li, D., Xiong, C. and Hoi, S., 2022, June. [Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation](https://proceedings.mlr.press/v162/li22n.html). In *International Conference on Machine Learning* (pp. 12888-12900). PMLR.
+- Wang, Z., Yu, J., Yu, A.W., Dai, Z., Tsvetkov, Y. and Cao, Y., SimVLM: [Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3). In *International Conference on Learning Representations.*
+- Singh, A., Hu, R., Goswami, V., Couairon, G., Galuba, W., Rohrbach, M. and Kiela, D., 2022. [Flava: A foundational language and vision alignment model](https://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html). In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+ (pp. 15638-15650).
 
 ### Pre-training - Video
 
@@ -36,16 +39,18 @@ We will discuss the following topics:
 - Tsimpoukelli, M., Menick, J.L., Cabi, S., Eslami, S.M., Vinyals, O. and Hill, F., 2021. [Multimodal few-shot learning with frozen language models](https://proceedings.neurips.cc/paper/2021/hash/01b7575c38dac42f3cfb7d500438b875-Abstract.html). Advances in Neural Information Processing Systems, 34, pp.200-212.
 - Yu, Y., Chung, J., Yun, H., Kim, J. and Kim, G., 2021. [Transitional adaptation of pretrained models for visual storytelling](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Transitional_Adaptation_of_Pretrained_Models_for_Visual_Storytelling_CVPR_2021_paper.html). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12658-12668).
 
+### Parameter Efficiency - Prefix-Tuning
+
+- Zhang, Z., Guo, W., Meng, X., Wang, Y., Wang, Y., Jiang, X., Liu, Q. and Yang, Z., 2022. [Hyperpelt: Unified parameter-efficient language model tuning for both language and vision-and-language tasks](https://arxiv.org/abs/2203.03878). arXiv preprint arXiv:2203.03878.
+- Jia, M., Tang, L., Chen, B.C., Cardie, C., Belongie, S., Hariharan, B. and Lim, S.N., 2022, October. [Visual Prompt Tuning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930696.pdf). In *Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXXIII*
+ (pp. 709-727).
+
 ### Parameter Efficiency - Adapters
 
 - Sung, Y.L., Cho, J. and Bansal, M., 2022. [Vl-adapter: Parameter-efficient transfer learning for vision-and-language tasks](https://openaccess.thecvf.com/content/CVPR2022/html/Sung_VL-Adapter_Parameter-Efficient_Transfer_Learning_for_Vision-and-Language_Tasks_CVPR_2022_paper.html). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 5227-5237).
 - Sung, Y.L., Cho, J. and Bansal, M., 2022. [LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning](https://openreview.net/forum?id=isPnnaTZaP5). In *Advances in Neural Information Processing Systems 2022*.
 
-### Parameter Efficiency - Prefix-Tuning
-
-- Zhang, Z., Guo, W., Meng, X., Wang, Y., Wang, Y., Jiang, X., Liu, Q. and Yang, Z., 2022. [Hyperpelt: Unified parameter-efficient language model tuning for both language and vision-and-language tasks](https://arxiv.org/abs/2203.03878). arXiv preprint arXiv:2203.03878.
-
-### Generative Model - Diffusion
+### Generative Model - Text-to-Image
 
 - Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. [High-resolution image synthesis with latent diffusion models.](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10684-10695).
 
@@ -53,14 +58,16 @@ We will discuss the following topics:
 
 - OpenAI, 2023. GPT-4. Available at: [https://openai.com/research/gpt-4](https://openai.com/research/gpt-4). March 14, 2023.
     - (Optional) OpenAI (2023). [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774). ArXiv, abs/2303.08774.
-- Wu, C., Yin, S., Qi, W., Wang, X., Tang, Z. and Duan, N., 2023. [Visual 
+- Wu, C., Yin, S., Qi, W., Wang, X., Tang, Z. and Duan, N., 2023. [Visual
 chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671). *arXiv preprint arXiv:2303.04671.*
 
 ### Reinforcement Learning
 
+- Wang, X., Chen, W., Wang, Y.F. and Wang, W.Y., 2018, July. [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://aclanthology.org/P18-1083/). In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*
+ (pp. 899-909).
 - Hu, J., Cheng, Y., Gan, Z., Liu, J., Gao, J. and Neubig, G., 2020, April. [What makes a good story? designing composite rewards for visual storytelling](https://ojs.aaai.org/index.php/AAAI/article/view/6305). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 05, pp. 7969-7976).
 
-If you know about an interesting paper, you can also propose it in the registration email. 
+If you know about an interesting paper, you can also propose it in the registration email.
 
 ## Requirement
 
@@ -68,7 +75,7 @@ Students should have a basic understanding of deep learning, natural language pr
 
 ## Discussion Format
 
-We will have a group discussion on each paper, where participants need to first present the papers. Then others can share their thoughts and insights on the research. 
+We will have a group discussion on each paper, where participants need to first present the papers. Then others can share their thoughts and insights on the research.
 
 ## Date and Time
 
@@ -81,8 +88,8 @@ Location: Gebäude C7 3 - Seminarraum 1.12
 
 If you have any questions or concerns, please contact us via email. We look forward to seeing you at the discussion!
 
-**Xudong Hong**: xhong@coli.uni-saarland.de
+**Xudong Hong**: [xhong@coli.uni-saarland.de](mailto:xhong@coli.uni-saarland.de)
 
-**Ruitao Feng**: fruitao@coli.uni-saarland.de
+**Ruitao Feng**: [fruitao@coli.uni-saarland.de](mailto:fruitao@coli.uni-saarland.de)
 
 ## (The following is under construction. Please stay tuned. )
