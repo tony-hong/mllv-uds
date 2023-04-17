@@ -2,7 +2,9 @@
 
 ## News
 
-If you are interested, please send [Xudong Hong](mailto:xhong@coli.uni-saarland.de) an email to register for this seminar.
+
+
+**Mar 27, 2023.** If you are interested, please send [Xudong Hong](mailto:xhong@coli.uni-saarland.de) an email to register for this seminar.
 
 ## Introduction
 
@@ -16,13 +18,15 @@ By the end of this seminar, you will have a solid grasp of the latest developmen
 
 We will discuss the following topics:
 
-### Pre-training - Image
+### Contrastive Pre-training - Image
 
 - Radford, A., Kim, J.W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J. and Krueger, G., 2021, July. [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a). In International conference on machine learning (pp. 8748-8763). PMLR.
 - Li, J., Li, D., Xiong, C. and Hoi, S., 2022, June. [Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation](https://proceedings.mlr.press/v162/li22n.html). In *International Conference on Machine Learning* (pp. 12888-12900). PMLR.
+
+### Causal LM Pre-training - Image
+
 - Wang, Z., Yu, J., Yu, A.W., Dai, Z., Tsvetkov, Y. and Cao, Y., SimVLM: [Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3). In *International Conference on Learning Representations.*
-- Singh, A., Hu, R., Goswami, V., Couairon, G., Galuba, W., Rohrbach, M. and Kiela, D., 2022. [Flava: A foundational language and vision alignment model](https://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html). In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*
- (pp. 15638-15650).
+- Singh, A., Hu, R., Goswami, V., Couairon, G., Galuba, W., Rohrbach, M. and Kiela, D., 2022. [Flava: A foundational language and vision alignment model](https://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html). In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 15638-15650).
 
 ### Pre-training - Video
 
@@ -33,6 +37,12 @@ We will discuss the following topics:
 
 - Cho, J., Lei, J., Tan, H. & Bansal, M.. (2021). [Unifying Vision-and-Language Tasks via Text Generation](https://proceedings.mlr.press/v139/cho21a.html). *Proceedings of the 38th International Conference on Machine Learning*, in *Proceedings of Machine Learning Research* 139:1931-1942
 - Hu, R. and Singh, A., 2021. [Unit: Multimodal multitask learning with a unified transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_UniT_Multimodal_Multitask_Learning_With_a_Unified_Transformer_ICCV_2021_paper.html?ref=https://githubhelp.com). In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 1439-1449).
+- Wang, P., Yang, A., Men, R., Lin, J., Bai, S., Li, Z., Ma, J., Zhou, C., Zhou, J. and Yang, H., 2022, June. [Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework](https://proceedings.mlr.press/v162/wang22al.html). In *International Conference on Machine Learning* (pp. 23318-23340). PMLR.
+
+### Parameter Efficiency - Prompting
+
+- Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z. and Wang, L., 2022, June. [An empirical study of gpt-3 for few-shot knowledge-based vqa](https://ojs.aaai.org/index.php/AAAI/article/download/20215/19974). In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 36, No. 3, pp. 3081-3089).
+- Zeng, A., Wong, A., Welker, S., Choromanski, K., Tombari, F., Purohit, A., Ryoo, M., Sindhwani, V., Lee, J., Vanhoucke, V. and Florence, P., 2022. [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://openreview.net/forum?id=G2Q2Mh3avow). ICLR 2023. *arXiv e-prints*, pp.arXiv-2204.
 
 ### Parameter Efficiency - Prompt Tuning
 
