@@ -9,6 +9,7 @@
 **Mar 27, 2023.** If you are interested, please send [Xudong Hong](mailto:xhong@coli.uni-saarland.de) an email to register for this seminar.
 
 ## Schedule
+
 | Date          | Topic                               | Paper Title                                                                                   | Presenter                 |
 |---------------|-------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------|
 | May 9, 2023   | Contrastive Pre-training - Image    | [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a)                  | Raj Mohan Tumarada        |
