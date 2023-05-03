@@ -44,6 +44,11 @@ Please find it [here](http://xudonghong.me/mllv-uds/intro).
 
 Please find them [here](http://xudonghong.me/mllv-uds/topic). 
 
+## Representations
+
+1. [Kickoff Meeting](./Seminar ML for Language and Vision_kickoff.pdf)
+2. [Introduction Meeting](./Seminar ML for Language and Vision_introduction.pdf)
+
 ## Requirement
 
 Students should have a basic understanding of deep learning, natural language processing and computer vision concepts. Students are expected to actively engage in discussions and critically analyze the papers presented during the seminar. They are also encouraged to share their own insights and perspectives on the topics covered.
