@@ -19,7 +19,7 @@
 | May 16, 2023  | Seq2seq Pre-training - Image        | [Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3)                             | Julian Schlenker          |
 | May 16, 2023  | Seq2seq Pre-training - Image        | [Flava: A foundational language and vision alignment model](https://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html) | Mehrad Zamani             |
 | May 23, 2023  | Pre-training - Video                | [Merlot: Multimodal neural script knowledge models](https://proceedings.neurips.cc/paper/2021/hash/c6d4eb15f1e84a36eff58eca3627c82e-Abstract.html)          | Yage Zhang             |
-| May 23, 2023  | Pre-training - Video                | [Merlot reserve: Neural script knowledge through vision and language and sound](http://openaccess.thecvf.com/content/CVPR2022/html/Zellers_MERLOT_Reserve_Neural_Script_Knowledge_Through_Vision_and_Language_and_CVPR_2022_paper.html) | Larisa Ivanova |
+| May 23, 2023  | Pre-training - Video                | [Merlot reserve: Neural script knowledge through vision and language and sound](http://openaccess.thecvf.com/content/CVPR2022/html/Zellers_MERLOT_Reserve_Neural_Script_Knowledge_Through_Vision_and_Language_and_CVPR_2022_paper.html) | - |
 | May 30, 2023  | Multitask Learning                  | [Unifying Vision-and-Language Tasks via Text Generation](https://proceedings.mlr.press/v139/cho21a.html)                              | Nitish Juttu   |
 | May 30, 2023  | Multitask Learning                  | [Unit: Multimodal multitask learning with a unified transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_UniT_Multimodal_Multitask_Learning_With_a_Unified_Transformer_ICCV_2021_paper.html?ref=https://githubhelp.com) | Zixuan Liu                |
 | June 6, 2023  | Multitask Learning                  | [Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework](https://proceedings.mlr.press/v162/wang22al.html) | Jakob Gürtler             |
@@ -35,7 +35,7 @@
 | July 11, 2023 | Generative Model - GPT               | [GPT-4](https://openai.com/research/gpt-4), [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | Abdul Rafay               |
 | July 11, 2023 | Generative Model - GPT               | [Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Huseyin Alecakir         |
 | July 25, 2023 | Reinforcement Learning              | [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://aclanthology.org/P18-1083/) | ?                         |
-| July 25, 2023 | Reinforcement Learning              | [What Makes a Good Story? Designing Composite Rewards for Visual Storytelling](https://ojs.aaai.org/index.php/AAAI/article/view/6305) | Ruveyda Betül Bahçeci     |
+| July 25, 2023 | Reinforcement Learning              | [What Makes a Good Story? Designing Composite Rewards for Visual Storytelling](https://ojs.aaai.org/index.php/AAAI/article/view/6305) | -     |
 
 
 ## Introduction
