@@ -49,7 +49,7 @@ Please find them [here](http://xudonghong.me/mllv-uds/topic).
 ## Grading
 - 10% draft presentation (due each Wednesday)
 - 10% questions about the papers (due each Friday)
-- 35% final talk (date in the break set by a doodle)
+- 35% final talk
 - 5% Attendance of all the talks and giving feedbacks
 - 5% Discussion during the talk with the others
 - 35% Term paper
