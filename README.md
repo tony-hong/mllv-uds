@@ -4,7 +4,7 @@
 
 **May 9, 2023.** Our grading standard is online. 
 
-**Apr 26, 2023.** Our temptative schedule is online. Please contact us ASAP if you have any questions.
+**Apr 26, 2023.** Our tentative schedule is online. Please contact us ASAP if you have any questions.
 
 **Apr 17, 2023.** Our kickoff meeting is scheduled for **April 18, 2023, from 12:15 to 13:45, at C7 3 - Seminarraum 1.12**. As the demand for attendance is exceedingly high, we have added more papers to our list. We kindly request that you attend the first two meetings to secure your spot. In the event that you are unable to attend but would still like to participate, please send us an email and we will arrange remote attendance for you. 
 
