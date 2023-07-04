@@ -50,9 +50,9 @@ Please find them [here](http://xudonghong.me/mllv-uds/topic).
 - 10% draft presentation (due each Wednesday)
 - 10% questions about the papers (due each Friday)
 - 35% final talk
-- 5% Attendance of all the talks and giving feedbacks
+- 5% Attendance of all the talks and giving feedback
 - 5% Discussion during the talk with the others
-- 35% Term paper
+- 35% Term paper on your understanding of the paper. 5 pages, using [ACL 2023 template](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
 - (optional) 10% Demo
 
 ## Representations
