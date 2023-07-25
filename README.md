@@ -33,10 +33,10 @@
 | July 4, 2023  | Parameter Efficiency - Adapters      | [LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning](https://openreview.net/forum?id=isPnnaTZaP5) | Rajkumar Anilkumar Vaghashiya |
 | July 4, 2023 | Generative Model - Text-to-Image     | [High-resolution image synthesis with latent diffusion models](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html) | Shreyash Arya             |
 | July 11, 2023 | Generative Model - GPT               | [GPT-4](https://openai.com/research/gpt-4), [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | Abdul Rafay               |
-| July 11, 2023 | Generative Model - GPT               | [Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Huseyin Alecakir         |
+| July 11, 2023 | Generative Model - GPT               | [Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | -        |
 | July 18, 2023 | Reinforcement Learning              | [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://aclanthology.org/P18-1083/) | -                         |
 | July 18, 2023 | Reinforcement Learning              | [What Makes a Good Story? Designing Composite Rewards for Visual Storytelling](https://ojs.aaai.org/index.php/AAAI/article/view/6305) | -     |
-
+| July 25, 2023 | Summary              |  | Xudong Hong and Ruitao Feng     |
 
 ## Introduction
 
